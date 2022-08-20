@@ -1,9 +1,0 @@
-**/.terraform/*
-
-# terrafofm lock file
-
-.terraform.lock.hcl
-
-# state file
-
-terrafofm.tfstate
